@@ -2,7 +2,7 @@
 
 This repository contains the code for **forest disturbance mapping and validation across Europe**, developed for:
 
-> Viana-Soto, A., Mense, J. A., Kowalski, K., Pauls, J., Gieseke, F., & Senf, C. (2026).  
+> **Viana-Soto, A., Mense, J. A., Kowalski, K., Pauls, J., Gieseke, F., & Senf, C. (2026).**  
 > *Deep learning-based forest disturbance detection for Europe using Landsat time series.*  
 > **Under review**
 
