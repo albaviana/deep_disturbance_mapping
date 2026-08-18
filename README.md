@@ -1,4 +1,4 @@
-# European Forest Disturbance Mapping
+## European Forest Disturbance Mapping
 
 This repository contains the code for **forest disturbance mapping and validation across Europe**, developed in:
 
