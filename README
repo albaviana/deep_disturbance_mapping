@@ -1,11 +1,10 @@
 # European Forest Disturbance Mapping
 
-This repository contains the code used for forest disturbance mapping
-and validation across Europe for the paper: Viana-Soto, A., Mense, J. A., Kowalski, K., Pauls, J., Gieseke, F., & Senf, C. (2026). Deep learning-based forest disturbance detection for Europe using Landsat time series. Under review
+This repository contains the code used for forest disturbance mapping and validation across Europe for the paper: Viana-Soto, A., Mense, J. A., Kowalski, K., Pauls, J., Gieseke, F., & Senf, C. (2026). Deep learning-based forest disturbance detection for Europe using Landsat time series. Under review
 
 ## Repository structure
 
-### "disturbance mapping
+### "disturbance mapping"
 Deep-learning-based disturbance detection: https://github.com/jorunnmense/deep_disturbance  
 
 ### "accuracy assessment"
