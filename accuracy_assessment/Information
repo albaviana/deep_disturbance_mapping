@@ -1,0 +1,13 @@
+## Code for the sampling design, reference data processing, and accuracy assessment of the disturbance maps.
+
+Spatial accuracy
+Temporal accuracy
+Country-level accuracy
+
+Original sampling design allocated an equal number of samples within disturbed and undisturbed areas, 
+To account for sampling biases when deriving map accuracies, we follow the general recommendations by 
+Olofsson et al. (2014), accounting for disproportionate probability sampling using known population 
+proportions of the sampling strata (fweights). We incorporated the weights through weighted bootstrap 
+resampling instead of weighting the confusion matrix. Weights were derived from the previous disturbance map 
+(EFDA v2) used to construct the reference dataset: https://doi.org/10.5281/zenodo.22101910 
+See Viana-Soto et al. (2026) for more details
