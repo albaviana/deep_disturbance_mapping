@@ -11,11 +11,12 @@ This repository extends the **European Forest Disturbance Atlas (EFDA)**, a Land
 
 ---
 
-## Repository structure
+## Disturbance detection workflow
 
 ### 🛰️ Disturbance mapping
 
-Deep-learning-based disturbance detection using Landsat time series.
+Deep-learning-based disturbance detection using Landsat time series. 
+We implemented two temporal architectures for pixel-wise forest disturbance detection: a TempCNN adapted from Pelletier et al. (2019) and Perbet et al. (2024) and a 1D U-Net, adapted from Ronneberger et al. (2015). 
 
 - [Disturbance mapping code](https://github.com/jorunnmense/deep_disturbance)
 
